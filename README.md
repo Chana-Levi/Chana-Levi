@@ -1,4 +1,4 @@
-# 👩‍💻 Hannah Levy - Software Developer  
+# 👩‍💻 Chana Levi - Software Developer  
 
 Dedicated and innovative Software Developer with a strong passion for technology and a specialization in **Artificial Intelligence**. Skilled in designing and developing advanced software systems using a broad range of programming languages and cutting-edge technologies.  
 
