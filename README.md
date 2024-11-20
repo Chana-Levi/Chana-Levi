@@ -47,6 +47,7 @@ Web API | Software Testing | Data Structures | Algorithms
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chana-levi-b3a45232b/)
 
 ---
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chana-Levi&show_icons=true&locale=en&theme=dracula" alt="Chana-Levi" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chana-Levi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Chana-Levi" />
