@@ -44,5 +44,10 @@ Web API | Software Testing | Data Structures | Algorithms
 ## 📫 Let's Connect  
 
 - **Email**: [chana369852@gmail.com](mailto:chana369852@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chana-levi-b3a45232b/)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chana-levi-b3a45232b/)
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chana-Levi&show_icons=true&locale=en&theme=dracula" alt="Chana-Levi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chana-Levi&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Chana-Levi" />
 
